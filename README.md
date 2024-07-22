@@ -62,3 +62,12 @@ MOTSynth [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fabbri_MOT
 
 
 ## Special Settings
+
+### Weakly Supervised MOTS
+**WMOTS**: Weakly supervised multi-object tracking and segmentation [[paper](https://openaccess.thecvf.com/content/WACV2021W/AVV/html/Ruiz_Weakly_Supervised_Multi-Object_Tracking_and_Segmentation_WACVW_2021_paper.html)] **WACV 2021 Workshop** (task proposal/baseline)
+
+**STC-Seg**: Solve the puzzle of instance segmentation in videos: A weakly supervised framework with spatio-temporal collaboration [[paper](https://ieeexplore.ieee.org/abstract/document/9869635)] **TCSVT 2022** (optical flow/depth estimation)
+
+**MaskFreeVIS**: Mask-Free Video Instance Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ke_Mask-Free_Video_Instance_Segmentation_CVPR_2023_paper.html)] **CVPR 2023** (VIS benchmark)
+
+**BoxMOTS**: Toward High Quality Multi-Object Tracking and Segmentation Without Mask Supervision [[paper](https://ieeexplore.ieee.org/abstract/document/10539628)] **TIP 2024** (optical flow/shadow detection)
